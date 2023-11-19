@@ -11,7 +11,7 @@ We tried to  build a sophisticated Medical Chatbot using powerful open-source te
         ◦ faiss
         ◦ PyPDF2 (for PDF document loading)
     2. Create a Python virtual environment (optional but recommended):
-    • python -m venv venv
-    • source venv/bin/activate  # On Windows, use: venv\Scripts\activate
+        • python -m venv venv
+        • source venv/bin/activate  # On Windows, use: venv\Scripts\activate
     3. Install the required Python packages:
-    • pip install -r requirements.txt
+        • pip install -r requirements.txt
